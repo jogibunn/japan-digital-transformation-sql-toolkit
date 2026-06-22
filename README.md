@@ -101,15 +101,15 @@ Main cleaning points:
 This project is based on an existing Codebasics RPC 17 digital transformation analytics project and dataset.  
 The original project materials are kept in this repository for reference. My contribution is the improvement layer: SQL-based data cleaning, Japanese reporting, Python automation, and GitHub-ready documentation.
 
-If the original GitHub URL is available, add it here:
+The original GitHub URL is add here:
 
 ```text
-Original repository: <add original GitHub URL>
+Original repository: <https://github.com/jogibunn/code_basics_rpc17.git>
 ```
 
 ## About Me
 
-I am Seven, a Kobe University Economics master's student focusing on spatial economics, empirical analysis, and IT consulting career preparation in Japan.
+I am Jojo, a Kobe University Economics master's international student, empirical analysis, and IT consulting career preparation in Japan.
 
 This project reflects the way I want to work as an IT/DX consultant:
 
